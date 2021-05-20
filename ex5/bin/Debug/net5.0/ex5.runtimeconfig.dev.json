@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\fablab\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\fablab\\.nuget\\packages"
-    ]
-  }
-}
